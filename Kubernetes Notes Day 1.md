@@ -112,7 +112,7 @@ A Kubernetes **cluster** has two parts:
 2. **Worker Nodes**: the machines that run the application workloads
 
 ### 4.1 Architecture Diagram
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.png.png)
 
 
 
